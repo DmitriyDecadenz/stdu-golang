@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 	"os"
-	"github.com/dhurimkelmendi/calculator/calc"
+	"calc"
 )
 func main() {
 	getOperation:
